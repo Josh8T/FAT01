@@ -36,4 +36,8 @@ git branch [branch-name]
 git checkout [branch-name]
 git switch [branch-name]
 
+- Merging
+git merge [branch-name]
 
+- Delete a branch
+git branch -d [branch-name]
